@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-13T16:42:11 IST" name="Default suite" finished-at="2025-05-13T16:42:16 IST" duration-ms="5196">
+    <groups>
+    </groups>
+    <test started-at="2025-05-13T16:42:11 IST" name="Default test" finished-at="2025-05-13T16:42:16 IST" duration-ms="5196">
+      <class name="com.TestNGProgram.LaunchURL">
+        <test-method signature="launchURL()[pri:0, instance:com.TestNGProgram.LaunchURL@3c19aaa5]" started-at="2025-05-13T16:42:11 IST" name="launchURL" finished-at="2025-05-13T16:42:16 IST" duration-ms="5115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+      </class> <!-- com.TestNGProgram.LaunchURL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
